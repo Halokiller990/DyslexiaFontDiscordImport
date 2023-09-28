@@ -1,7 +1,7 @@
 /**
  * @name OpenDyslexic
  * @author OpenDyslexic Team + HaloK
- * @version 1.0.0
+ * @version 1.0.1
  * @description Changes the discord font to one with better accessability for those with Dyslexia <3.
  * @source https://github.com/Halokiller990/DyslexiaFontDiscordImport
  */
@@ -12,5 +12,6 @@
 :root {
 
     --font-primary: "OpenDyslexic","Helvetica Neue",Helvetica,Arial,sans-serif;
-    
+    --font-display: "OpenDyslexic","Helvetica Neue",Helvetica,Arial,sans-serif;
+    --font-code: "OpenDyslexic", Consolas, Liberation Mono, Menlo, Courier, monospace;
     }
