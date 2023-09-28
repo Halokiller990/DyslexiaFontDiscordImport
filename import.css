@@ -7,21 +7,21 @@ src: local(OpenDyslexic-Regular), url("https://github.com/Halokiller990/Dyslexia
 
 @font-face {
 font-family: OpenDyslexic; 
-font-style:normal;
+font-style:bold;
 font-weight:500;
 src: local(OpenDyslexic-Bold), url("https://github.com/Halokiller990/DyslexiaFontDiscordImport/raw/main/OpenDyslexic-Bold.otf") format('otf');
 }
 
 @font-face {
 font-family: OpenDyslexic; 
-font-style:normal;
+font-style:italic;
 font-weight:500;
 src: local(OpenDyslexic-Italic), url("https://github.com/Halokiller990/DyslexiaFontDiscordImport/raw/main/OpenDyslexic-Italic.otf") format('otf');
 }
 
 @font-face {
 font-family: OpenDyslexic; 
-font-style:normal;
-font-weight:500;
+font-style:italic;
+font-weight:bold;
 src: local(OpenDyslexic-Bold-Italic), url("https://github.com/Halokiller990/DyslexiaFontDiscordImport/raw/main/OpenDyslexic-Bold-Italic.otf") format('otf');
 }
